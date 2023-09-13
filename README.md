@@ -10,7 +10,16 @@ npm run dev
 yarn dev
 # or
 pnpm dev
+
 ```
+
+add
+GOOGLE_ID = 
+GOOGLE_SECRET = 
+NEXTAUTH_URL = 
+NEXTAUTH_SECRET = 
+DATABASE_URL=
+FIREBASE= 
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
